@@ -1,3 +1,3 @@
 <?php
-Login Succesful. 
+Login Successful. 
 ?>
